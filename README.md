@@ -24,8 +24,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ossiqn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossiqn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ossiqn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=900" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossiqn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=900" alt="Top Langs" />
 </p>
 
 <br>
